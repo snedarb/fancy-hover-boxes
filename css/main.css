@@ -35,5 +35,5 @@ html {
 .hover-box:hover .hover-box-img,
 .hover-box:focus .hover-box-img {
   filter: grayscale(0);
-  transition: scale(1.1);
+  transform: scale(1.1);
 }
